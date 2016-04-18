@@ -6,7 +6,7 @@ homepage: http://mplacona.github.io/twilio-dart
 environment:
   sdk: '>=0.8.10+6 <2.0.0'
 dependencies:
-  http: '>=0.10.0 <=0.11.1+1'
+  http: any
 dev_dependencies:
   browser: '>=0.10.0 <=0.10.0+2'
   mock: any
